@@ -16,7 +16,7 @@ Setup Instructions
 2. Install dependencies
    - If using Composer for PHP/Laravel:
        - composer install
-   - If using npm/yarn for frontend assets:
+   - If using npm for frontend assets:
        - npm install
 3. Configure environment
    - Copy the example environment file and update your settings:
