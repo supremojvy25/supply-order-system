@@ -1,6 +1,5 @@
-# supply-order-system
+# Internal Supply Order System
 
-Internal Supply Order System
 - A simple order system that calculates product totals, tax, and discounts while handling currency rounding accurately.
 
 Features
